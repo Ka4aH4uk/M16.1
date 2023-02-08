@@ -1,0 +1,6 @@
+framework module Pods_m15_withSnapKit {
+  umbrella header "Pods-m15.withSnapKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
