@@ -43,14 +43,6 @@ class ViewController: UIViewController {
             make.edges.equalToSuperview()
         }
     }
-
-//    func codeOne() {
-//        print("Test")
-//    }
-    
-    //    func codeTwo() {
-    //        print("Test 2")
-    //    }
     
     private func setupViews() {
         view.addSubview(tableView)
